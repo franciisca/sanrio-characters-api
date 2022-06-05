@@ -1,3 +1,5 @@
+//heroku URL https://sanrio-character-api.herokuapp.com/
+
 const express = require('express')
 const app = express()
 const PORT = 8000
